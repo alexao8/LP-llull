@@ -68,7 +68,7 @@ Les llibreries utilitzades han estat:
 
 - `queue` per utilitzar una pila amb LifoQueue al visitor.py.
 
-- `color` per a la sortida en color per consola del baetificador
+- `colored` per a la sortida en color per consola del baetificador
 
 Al fitxer `requeriments.txt` es poden trobar les llibreries necessaries per aquesta pràctica i la manera d'instal·lar-ho.
 
